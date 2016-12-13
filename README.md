@@ -1,4 +1,4 @@
-# SuperPowers_electron_build_script_mac
+# SuperPowers electron build script
 
 This will produce builds of your SuperPowers game for:
 
